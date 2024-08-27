@@ -1,4 +1,5 @@
 from flask import Flask,render_template, request, Response 
+from bot import bot 
 
 app = Flask(__name__)
 app.secret_key = 'alura'
