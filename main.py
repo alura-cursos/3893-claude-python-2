@@ -28,5 +28,15 @@ def chat():
     salva(nome_do_arquivo,conteudo)
     return resposta
 
+@app.route("/limpar_historico",methods = ["POST"])
+def limpar_historico():
+    nome_do_arquivo = './historico/historico_SaborExpress.txt'
+    if os.path.exists(nome_do_arquivo):
+        os.remove(nome_do_arquivo)
+        print("Arquivo de histórico removido!")
+    else:
+        print("Não foi possível remover o arquivo de histórico.")
+    return {}
+
 if __name__ == "__main__":
     app.run(debug = True)

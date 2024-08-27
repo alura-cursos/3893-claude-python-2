@@ -55,7 +55,7 @@ input.addEventListener("keyup", function(event) {
 });
 
 function limparConversa(){
-    const limpar = fetch("http://127.0.0.1:5000/limparhistorico", {
+    const limpar = fetch("http://127.0.0.1:5000/limpar_historico", {
         method: "POST"
     });
     chat.innerHTML = "<p class='chat__bolha chat__bolha--bot'>Olá! Eu sou o assistente virtual da Sabor Express ~<br/><br/>Como posso te ajudar?</p>";
