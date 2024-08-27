@@ -12,7 +12,7 @@ cliente = anthropic.Anthropic(
 modelo = "claude-3-5-sonnet-20240620"
 # contexto = carrega('./dados/SaborExpress.txt')
 
-def bot(prompt):
+def bot(prompt,historico):
     personalidade = personas[identificar_persona(prompt)]
     contexto = identificar_contexto(prompt)
     documento_contexto = selecionar_documento(contexto)
@@ -21,12 +21,16 @@ def bot(prompt):
     Você não pode e nem deve responder perguntas que não sejam dados do aplicativo informado!
     Você deve gerar respostas utilizando o contexto abaixo.
     Você deve adotar a persona abaixo para responder a mensagem.
+    Você deve considerar o histórico da conversa.
 
     # Contexto
     {documento_contexto}
 
     # Persona
     {personalidade}
+
+    # Histórico
+    {historico}
     """
     prompt_do_usuario = prompt
 

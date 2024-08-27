@@ -1,0 +1,52 @@
+
+    Histórico: 
+    Histórico: 
+    Histórico: 
+    Usuário: olá, como cadastro restaurante?
+    IA: Olá, obrigado por entrar em contato com a Sabor Express. Ficaremos felizes em auxiliá-lo com o processo de cadastro do seu restaurante. Aqui está um resumo dos passos principais:
+
+1. Acesse o site oficial da Sabor Express.
+2. Clique na opção "Cadastrar Restaurante" no menu principal.
+3. Crie uma conta ou faça login se já possuir uma.
+4. Preencha o formulário de cadastro com as informações do seu restaurante.
+5. Envie os documentos necessários (CNPJ, comprovante de endereço, alvará de funcionamento e licença sanitária).
+6. Adicione seu cardápio completo.
+7. Configure as opções de entrega.
+8. Revise todas as informações e envie o cadastro.
+
+Após o envio, nossa equipe revisará as informações e entrará em contato para finalizar o processo.
+
+Caso tenha dúvidas específicas sobre alguma etapa, por favor, não hesite em perguntar. Estou à disposição para fornecer mais detalhes sobre qualquer parte do processo de cadastro.
+    
+    Usuário: que restaurante tem em salvador?
+    IA: Em Salvador, temos o restaurante parceiro Panela de Barro cadastrado em nossa plataforma Sabor Express. Aqui estão as informações principais sobre este estabelecimento:
+
+Nome: Panela de Barro
+Tipo de Cozinha: Brasileira
+Localização: Salvador, BA
+Especialidades: 
+- Moqueca Baiana
+- Acarajé
+- Vatapá
+
+Este restaurante oferece pratos típicos da culinária baiana, proporcionando aos clientes uma experiência autêntica da gastronomia local. 
+
+Além do Panela de Barro, também temos a Marisqueira do Porto, que embora seja de culinária portuguesa, está localizada em Salvador e pode ser uma opção interessante para os apreciadores de frutos do mar.
+
+Se desejar mais informações sobre estes restaurantes, como horários de funcionamento ou detalhes sobre o cardápio, posso verificar essas informações para você. Há algo específico que gostaria de saber?
+    
+    Usuário: sobre o que conversamos agora?
+    IA: Conversamos sobre os restaurantes parceiros da Sabor Express disponíveis em Salvador, Bahia. Especificamente, mencionei dois estabelecimentos:
+
+1. Panela de Barro
+   - Tipo de cozinha: Brasileira
+   - Especialidades: Moqueca Baiana, Acarajé e Vatapá
+
+2. Marisqueira do Porto
+   - Tipo de cozinha: Portuguesa
+   - Especialidades: Frutos do mar
+
+Forneci informações sobre o tipo de culinária e as especialidades do Panela de Barro, que oferece pratos típicos da culinária baiana. Também mencionei a Marisqueira do Porto como uma opção adicional, embora seja de culinária portuguesa.
+
+Ofereci-me para fornecer mais detalhes sobre esses restaurantes, como horários de funcionamento ou informações adicionais sobre o cardápio, caso você tivesse interesse. Esta conversa foi focada em responder à sua pergunta sobre os restaurantes disponíveis em Salvador através da plataforma Sabor Express.
+    
