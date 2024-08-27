@@ -8,11 +8,16 @@ cliente = anthropic.Anthropic(
     api_key=os.environ.get("ANTHROPIC_API_KEY"),
 )
 modelo = "claude-3-5-sonnet-20240620"
+contexto = carrega('./dados/SaborExpress.txt')
 
 def bot(prompt):
     prompt_do_sistema = f"""
     Você é um chatbot de atendimento a clientes de um aplicativo de entrega para restaurantes, padarias, mercados e farmácias.
     Você não pode e nem deve responder perguntas que não sejam dados do aplicativo informado!
+    Você deve gerar respostas utilizando o contexto abaixo.
+
+    # Contexto
+    {contexto}
     """
     prompt_do_usuario = prompt
 
