@@ -1,0 +1,163 @@
+### Dados e Informações sobre o Sabor Express
+
+**Nome do Serviço:** Sabor Express
+
+**Slogan:** "O Sabor que Conecta"
+
+**Descrição do Serviço:**  
+Sabor Express é uma plataforma de entrega de alimentos que conecta consumidores a uma vasta rede de restaurantes, padarias, cafés e supermercados. Com uma interface amigável e um sistema de entrega eficiente, Sabor Express visa tornar a experiência de pedir comida online fácil e agradável para todos os usuários.
+
+A empresa valoriza a sustentabilidade, a segurança e o atendimento de alta qualidade para todos os usuários. Além disso, Sabor Express oferece uma gama variada de opções de cozinha para atender a todos os gostos, desde pratos tradicionais a opções veganas e internacionais.
+
+### Restaurantes Parceiros
+
+Sabor Express está presente em diversas cidades e regiões do Brasil, garantindo que mais consumidores possam desfrutar de uma experiência de entrega de alimentos eficiente e de alta qualidade. Atualmente, o aplicativo está disponível nas seguintes localidades:
+
+- **São Paulo, SP**
+- **Rio de Janeiro, RJ**
+- **Belo Horizonte, MG**
+- **Porto Alegre, RS**
+- **Curitiba, PR**
+- **Florianópolis, SC**
+- **Recife, PE**
+- **Brasília, DF**
+- **Salvador, BA**
+- **Campinas, SP**
+- **Manaus, AM**
+- **Fortaleza, CE**
+
+Essas cidades cobrem uma ampla área geográfica, permitindo que moradores de diferentes regiões tenham acesso a uma vasta rede de restaurantes parceiros e possam experimentar o melhor da gastronomia local e internacional, com apenas alguns toques no aplicativo. Sabor Express continua a expandir sua presença, trazendo conveniência e sabor para cada vez mais pessoas em todo o Brasil.
+
+Aqui estão alguns dos nossos parceiros:
+
+**Bistrô Delícia**
+   - **Tipo de Cozinha:** Italiana
+   - **Localização:** São Paulo, SP
+   - **Especialidades:** Pizza Margherita, Lasanha Bolonhesa, Tiramisu
+
+**Sushi Zen**
+   - **Tipo de Cozinha:** Japonesa
+   - **Localização:** Rio de Janeiro, RJ
+   - **Especialidades:** Sushi de Salmão, Tempura de Legumes, Ramen Tonkotsu
+
+**Padaria Doce Sabor**
+   - **Tipo de Cozinha:** Padaria
+   - **Localização:** Porto Alegre, RS
+   - **Especialidades:** Pães Artesanais, Bolo de Cenoura com Chocolate, Brigadeiro
+
+**El Mexicano**
+   - **Tipo de Cozinha:** Mexicana
+   - **Localização:** Belo Horizonte, MG
+   - **Especialidades:** Tacos Al Pastor, Guacamole, Churros com Doce de Leite
+
+**Veggie Paradise**
+   - **Tipo de Cozinha:** Vegana
+   - **Localização:** Curitiba, PR
+   - **Especialidades:** Falafel com Molho Tahine, Homus, Baklava de Nozes
+
+**Café Gourmet**
+   - **Tipo de Cozinha:** Café
+   - **Localização:** Florianópolis, SC
+   - **Especialidades:** Café Expresso, Sanduíche de Presunto e Queijo, Cheesecake
+
+**Churrasco Gaúcho**
+   - **Tipo de Cozinha:** Churrascaria
+   - **Localização:** Porto Alegre, RS
+   - **Especialidades:** Picanha, Costela, Linguiça Artesanal
+
+**Cantina Bella Napoli**
+   - **Tipo de Cozinha:** Italiana
+   - **Localização:** Recife, PE
+   - **Especialidades:** Risoto de Frutos do Mar, Gnocchi, Panna Cotta
+
+**Thai Spice**
+   - **Tipo de Cozinha:** Tailandesa
+   - **Localização:** Brasília, DF
+   - **Especialidades:** Pad Thai, Curry Verde, Mango Sticky Rice
+
+**Burger House**
+    - **Tipo de Cozinha:** Americana
+    - **Localização:** São Paulo, SP
+    - **Especialidades:** Cheeseburger, Batata Frita com Cheddar, Milkshake de Baunilha
+
+**La Bonne Crêpe**
+   - **Tipo de Cozinha:** Francesa
+   - **Localização:** Rio de Janeiro, RJ
+   - **Especialidades:** Crêpe Suzette, Quiche Lorraine, Ratatouille
+
+**Marisqueira do Porto**
+   - **Tipo de Cozinha:** Portuguesa
+   - **Localização:** Salvador, BA
+   - **Especialidades:** Bacalhau à Brás, Arroz de Marisco, Pastéis de Nata
+
+**Pasta & Vino**
+   - **Tipo de Cozinha:** Italiana
+   - **Localização:** Campinas, SP
+   - **Especialidades:** Tagliatelle com Ragu, Ravioli de Ricota, Tiramisu
+
+**Tokyo Street Food**
+   - **Tipo de Cozinha:** Japonesa
+   - **Localização:** Curitiba, PR
+   - **Especialidades:** Takoyaki, Okonomiyaki, Karaage
+
+**Casa do Açaí**
+   - **Tipo de Cozinha:** Saudável
+   - **Localização:** Manaus, AM
+   - **Especialidades:** Açaí com Granola, Smoothie de Frutas Tropicais, Salada de Frutas
+
+**Barbecue Grill**
+   - **Tipo de Cozinha:** Americana
+   - **Localização:** Belo Horizonte, MG
+   - **Especialidades:** Ribs on the Barbie, Pulled Pork Sandwich, Cornbread
+
+**Sabores do Sertão**
+   - **Tipo de Cozinha:** Brasileira
+   - **Localização:** Fortaleza, CE
+   - **Especialidades:** Baião de Dois, Carne de Sol com Nata, Tapioca Recheada
+
+**Pérola do Mar**
+   - **Tipo de Cozinha:** Frutos do Mar
+   - **Localização:** Florianópolis, SC
+   - **Especialidades:** Moqueca de Camarão, Ceviche, Caldeirada de Frutos do Mar
+
+**Dolce Vita**
+   - **Tipo de Cozinha:** Doces e Sobremesas
+   - **Localização:** São Paulo, SP
+   - **Especialidades:** Tiramisù, Cheesecake de Frutas Vermelhas, Gelato Artesanal
+
+**Panela de Barro**
+   - **Tipo de Cozinha:** Brasileira
+   - **Localização:** Salvador, BA
+   - **Especialidades:** Moqueca Baiana, Acarajé, Vatapá
+
+### Informações de Suporte
+
+**Contato Geral:**  
+- **Telefone:** (11) 4000-1234  
+- **E-mail:** suporte@saborexpress.com  
+- **Horário de Atendimento:** Segunda a Sexta, das 8h às 22h; Sábados, das 9h às 18h.
+
+**Suporte Técnico para Restaurantes Parceiros:**  
+- **Telefone:** (11) 4000-5678  
+- **E-mail:** suporte.restaurantes@saborexpress.com  
+- **WhatsApp:** (11) 99999-1234  
+- **Horário de Atendimento:** Segunda a Sexta, das 7h às 23h; Sábados e Domingos, das 8h às 20h.
+
+**Dúvidas sobre Cadastro e Documentação:**  
+- **E-mail:** cadastro@saborexpress.com  
+- **Chat Online:** Disponível no site oficial durante o horário comercial.
+
+**Suporte ao Cliente Final:**  
+- **Telefone:** 0800 123 4567  
+- **E-mail:** atendimento.cliente@saborexpress.com  
+- **Chat no Aplicativo:** Acesse o chat diretamente pelo aplicativo, disponível 24/7 para resolver qualquer problema ou dúvida.
+
+**Perguntas Frequentes:**  
+Visite a seção de **FAQ** no nosso site para encontrar respostas rápidas para as perguntas mais comuns sobre como usar a plataforma, fazer pedidos, e resolver problemas.
+
+**Endereço para Correspondência:**  
+- Sabor Express  
+  Avenida Central, 1234, Sala 567  
+  São Paulo, SP, 01000-000
+
+Se precisar de suporte imediato, nossa equipe está pronta para ajudar via telefone, e-mail ou chat online. Sinta-se à vontade para entrar em contato a qualquer momento.
