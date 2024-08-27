@@ -2,6 +2,7 @@ import anthropic
 import dotenv
 import os
 from helpers import *
+from identificar_persona import *
 
 dotenv.load_dotenv()
 cliente = anthropic.Anthropic(
@@ -11,6 +12,7 @@ modelo = "claude-3-5-sonnet-20240620"
 contexto = carrega('./dados/SaborExpress.txt')
 
 def bot(prompt):
+    personalidade = personas[identificar_persona(prompt)]
     prompt_do_sistema = f"""
     Você é um chatbot de atendimento a clientes de um aplicativo de entrega para restaurantes, padarias, mercados e farmácias.
     Você não pode e nem deve responder perguntas que não sejam dados do aplicativo informado!
@@ -19,6 +21,9 @@ def bot(prompt):
 
     # Contexto
     {contexto}
+    
+    # Persona
+    {personalidade}
     """
     prompt_do_usuario = prompt
 
