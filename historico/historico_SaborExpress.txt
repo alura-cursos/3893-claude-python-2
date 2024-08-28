@@ -1,0 +1,5 @@
+
+    Histórico: Entendo que você está me pedindo para resumir progressivamente as linhas de conversa, mas como não há um resumo atual ou novas linhas de conversa fornecidas, não há nada para resumir neste momento. Se você tiver alguma pergunta ou assunto que gostaria de discutir, ficarei feliz em conversar sobre isso. Posso ajudar com alguma informação ou tópico específico?
+    Usuário: Olá, me recomenda um restaurante com esse alimento
+    IA: Olá! Agradeço seu contato com o Sabor Express. Para que eu possa recomendar um restaurante adequado, preciso saber qual alimento específico você está procurando. Poderia, por favor, informar qual tipo de comida ou prato você gostaria de pedir? Com essa informação, poderei sugerir os melhores restaurantes parceiros que oferecem esse item em nosso aplicativo.
+    
