@@ -1,27 +1,25 @@
 
-    Histórico: Entendo que você está me pedindo para resumir progressivamente as linhas de conversa, mas como não há um resumo atual ou novas linhas de conversa fornecidas, não há nada para resumir neste momento. Se você tiver alguma pergunta ou assunto que gostaria de discutir, ficarei feliz em conversar sobre isso. Posso ajudar com alguma informação ou tópico específico?
-    Usuário: me recomende um restaurante que venda essa comida
-    IA: Entendo que você está procurando uma recomendação de restaurante que sirva um prato semelhante ao que você descreveu na imagem. Com base na sua descrição, parece que estamos falando de um prato de massa italiana, possivelmente um fettuccine ou tagliatelle com um molho leve à base de azeite e ervas.
+    Histórico: Novo resumo:
 
-Considerando os restaurantes parceiros do Sabor Express, eu recomendaria o "Pasta & Vino", localizado em Campinas, SP. Este restaurante se especializa em culinária italiana e oferece pratos de massa fresca. Embora não tenhamos informações específicas sobre o prato exato que você descreveu, o "Pasta & Vino" tem como especialidades:
+O usuário solicitou uma recomendação de restaurante que venda um prato de massa italiana, possivelmente fettuccine ou tagliatelle com molho leve à base de azeite e ervas. A IA recomendou dois restaurantes parceiros do Sabor Express:
 
-1. Tagliatelle com Ragu
-2. Ravioli de Ricota
-3. Tiramisu
+1. "Pasta & Vino" em Campinas, SP, especializado em culinária italiana e massas frescas.
+2. "Bistrô Delícia" em São Paulo, também com opções de culinária italiana.
 
-O tagliatelle é uma massa similar à que você descreveu, e é provável que eles possam preparar um prato semelhante ao da imagem, com um molho leve de azeite e ervas.
+A IA descreveu o prato mencionado pelo usuário como uma massa longa em um prato branco, coberta com ervas frescas picadas e um molho leve, decorado com manjericão fresco e apresentado de forma caseira e acolhedora. A IA também ofereceu mais informações sobre os restaurantes parceiros ou recomendações específicas baseadas na localização do usuário.
+    Usuário: Me informa o status do meu pedido C001.
+    IA: Prezado cliente,
 
-Alternativamente, se você estiver em São Paulo, o "Bistrô Delícia" também é uma excelente opção para culinária italiana. Eles se especializam em pratos como:
+Peço desculpas, mas não tenho acesso direto ao sistema de pedidos para verificar o status específico do seu pedido C001. Para obter informações precisas e atualizadas sobre o status do seu pedido, recomendo que você:
 
-1. Pizza Margherita
-2. Lasanha Bolonhesa
-3. Tiramisu
+1. Verifique o status diretamente no aplicativo Sabor Express, na seção "Meus Pedidos".
 
-Embora suas especialidades listadas não incluam especificamente o prato que você descreveu, restaurantes italianos geralmente têm uma variedade de opções de massa e podem preparar pratos personalizados mediante solicitação.
+2. Entre em contato com nosso Suporte ao Cliente através dos seguintes canais:
+   - Telefone: 0800 123 4567
+   - E-mail: atendimento.cliente@saborexpress.com
+   - Chat no Aplicativo: Disponível 24 horas por dia, 7 dias por semana
 
-Lembre-se de que a disponibilidade exata dos pratos pode variar, então é sempre uma boa ideia verificar o menu atual através do aplicativo Sabor Express antes de fazer seu pedido.
+Nossa equipe de suporte terá acesso aos detalhes do seu pedido e poderá fornecer informações precisas sobre o status atual, tempo estimado de entrega e quaisquer outras informações relevantes.
 
-Quanto à imagem que você descreveu, ela mostra um prato branco contendo uma porção de massa longa (fettuccine ou tagliatelle), coberta com ervas frescas picadas e um molho leve, possivelmente à base de azeite. O prato é decorado com uma folha de manjericão fresco e está apresentado sobre uma superfície de textura rústica, com ingredientes como ervas frescas, pimentas vermelhas pequenas e massa crua espalhados ao redor, além de um garfo e um ralador de queijo visíveis, criando uma apresentação caseira e acolhedora.
-
-Posso ajudar com mais alguma informação sobre nossos restaurantes parceiros ou fazer uma recomendação mais específica baseada em sua localização atual?
+Caso precise de mais alguma assistência, estou à disposição para ajudar com outras informações sobre nossos serviços e parceiros.
     
