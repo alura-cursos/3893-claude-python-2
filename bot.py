@@ -5,6 +5,7 @@ from helpers import *
 from identificar_persona import *
 from identificar_contexto import *
 from analisador_de_imagens import *
+from tools import *
 
 dotenv.load_dotenv()
 cliente = anthropic.Anthropic(
@@ -47,6 +48,7 @@ def bot(prompt,historico,caminho_da_imagem):
             max_tokens=4000,
             temperature=0,
             system=prompt_do_sistema,
+            tools = ferramentas,
             messages=[
                 {
                     "role": "user",
@@ -60,7 +62,36 @@ def bot(prompt,historico,caminho_da_imagem):
             ]
         )
         resposta = mensagem.content[0].text
-        return resposta, caminho_da_imagem
+        while mensagem.stop_reason == "tool_use":
+            ferramenta_usada = next(block for block in mensagem.content if block.type == "tool_use")
+            nome_da_ferramenta = ferramenta_usada.name
+            input_da_ferramenta = ferramenta_usada.input
+            resultado_da_ferramenta = processa_chamada_de_ferramentas(nome_da_ferramenta,input_da_ferramenta)
+            resultado_da_ferramenta_texto = str(resultado_da_ferramenta)
+            # mensagem_anterior_texto = mensagem.content[0].text
+            mensagens_ferramenta = [{"role": "user", "content": prompt_do_usuario},
+                        {"role": "assistant", "content": resposta},
+                        {
+                            "role": "user",
+                            "content":json.dumps(
+                                {
+                                    "type": "tool_result",
+                                    "tool_use_id": ferramenta_usada.id,
+                                    "content": resultado_da_ferramenta_texto,
+                                }
+                            ),
+                        },
+                    ]
+            mensagem = cliente.messages.create(
+                model=modelo,
+                max_tokens=4000,
+                tools=ferramentas,
+                messages= mensagens_ferramenta
+            )
+            print(f"Motivo de Parada: {mensagem.stop_reason}")
+            print(f"Conteúdo: {mensagem.content}")
+        resposta_final = mensagem.content[0].text
+        return resposta_final, caminho_da_imagem
     except anthropic.APIConnectionError as e:
         print("O servidor não pode ser acessado! Erro:", e.__cause__)
     except anthropic.RateLimitError as e:

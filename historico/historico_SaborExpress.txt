@@ -1,25 +1,17 @@
 
     Histórico: Novo resumo:
 
-O usuário solicitou uma recomendação de restaurante que venda um prato de massa italiana, possivelmente fettuccine ou tagliatelle com molho leve à base de azeite e ervas. A IA recomendou dois restaurantes parceiros do Sabor Express:
+O usuário solicitou uma recomendação de restaurante que venda um prato de massa italiana, possivelmente fettuccine ou tagliatelle com molho leve à base de azeite e ervas. A IA recomendou dois restaurantes parceiros do Sabor Express: "Pasta & Vino" em Campinas, SP, e "Bistrô Delícia" em São Paulo. A IA descreveu o prato mencionado pelo usuário e ofereceu mais informações sobre os restaurantes parceiros.
 
-1. "Pasta & Vino" em Campinas, SP, especializado em culinária italiana e massas frescas.
-2. "Bistrô Delícia" em São Paulo, também com opções de culinária italiana.
+Posteriormente, o usuário solicitou informações sobre o status do pedido C001. A IA informou que não tem acesso direto ao sistema de pedidos e recomendou que o usuário verifique o status no aplicativo Sabor Express ou entre em contato com o Suporte ao Cliente através dos canais disponíveis (telefone, e-mail e chat no aplicativo). A IA se colocou à disposição para fornecer outras informações sobre serviços e parceiros.
+    Usuário: olá, qual o status do meu pedido C002.
+    IA: Obrigado por aguardar. Consultei nosso sistema e tenho as informações sobre o seu pedido C002. Aqui estão os detalhes:
 
-A IA descreveu o prato mencionado pelo usuário como uma massa longa em um prato branco, coberta com ervas frescas picadas e um molho leve, decorado com manjericão fresco e apresentado de forma caseira e acolhedora. A IA também ofereceu mais informações sobre os restaurantes parceiros ou recomendações específicas baseadas na localização do usuário.
-    Usuário: Me informa o status do meu pedido C001.
-    IA: Prezado cliente,
+- Código do pedido: O2
+- Preço: R$43,00
+- Status: Confirmado
 
-Peço desculpas, mas não tenho acesso direto ao sistema de pedidos para verificar o status específico do seu pedido C001. Para obter informações precisas e atualizadas sobre o status do seu pedido, recomendo que você:
+Seu pedido está confirmado e pronto para ser processado. Isso significa que o pagamento foi recebido com sucesso e o pedido está sendo preparado para envio ou, se for um serviço, para ser realizado.
 
-1. Verifique o status diretamente no aplicativo Sabor Express, na seção "Meus Pedidos".
-
-2. Entre em contato com nosso Suporte ao Cliente através dos seguintes canais:
-   - Telefone: 0800 123 4567
-   - E-mail: atendimento.cliente@saborexpress.com
-   - Chat no Aplicativo: Disponível 24 horas por dia, 7 dias por semana
-
-Nossa equipe de suporte terá acesso aos detalhes do seu pedido e poderá fornecer informações precisas sobre o status atual, tempo estimado de entrega e quaisquer outras informações relevantes.
-
-Caso precise de mais alguma assistência, estou à disposição para ajudar com outras informações sobre nossos serviços e parceiros.
+Há mais alguma informação que você gostaria de saber sobre este pedido ou posso ajudar com mais alguma coisa?
     
