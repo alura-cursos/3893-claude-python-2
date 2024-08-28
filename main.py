@@ -17,13 +17,14 @@ def home():
 
 @app.route("/chat",methods = ['POST'])
 def chat():
+    global caminho_da_imagem
     prompt = request.json['msg']
     nome_do_arquivo = './historico/historico_SaborExpress.txt'
     historico = ''
     if os.path.exists(nome_do_arquivo):
         historico = carrega(nome_do_arquivo)
     historico_resumido = criar_resumo(historico)
-    resposta = bot(prompt,historico_resumido)
+    resposta, caminho_da_imagem = bot(prompt,historico_resumido,caminho_da_imagem)
     conteudo = f"""
     Histórico: {historico_resumido}
     Usuário: {prompt}

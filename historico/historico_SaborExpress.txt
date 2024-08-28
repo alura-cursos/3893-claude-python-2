@@ -1,5 +1,27 @@
 
     Histórico: Entendo que você está me pedindo para resumir progressivamente as linhas de conversa, mas como não há um resumo atual ou novas linhas de conversa fornecidas, não há nada para resumir neste momento. Se você tiver alguma pergunta ou assunto que gostaria de discutir, ficarei feliz em conversar sobre isso. Posso ajudar com alguma informação ou tópico específico?
-    Usuário: Olá, me recomenda um restaurante com esse alimento
-    IA: Olá! Agradeço seu contato com o Sabor Express. Para que eu possa recomendar um restaurante adequado, preciso saber qual alimento específico você está procurando. Poderia, por favor, informar qual tipo de comida ou prato você gostaria de pedir? Com essa informação, poderei sugerir os melhores restaurantes parceiros que oferecem esse item em nosso aplicativo.
+    Usuário: me recomende um restaurante que venda essa comida
+    IA: Entendo que você está procurando uma recomendação de restaurante que sirva um prato semelhante ao que você descreveu na imagem. Com base na sua descrição, parece que estamos falando de um prato de massa italiana, possivelmente um fettuccine ou tagliatelle com um molho leve à base de azeite e ervas.
+
+Considerando os restaurantes parceiros do Sabor Express, eu recomendaria o "Pasta & Vino", localizado em Campinas, SP. Este restaurante se especializa em culinária italiana e oferece pratos de massa fresca. Embora não tenhamos informações específicas sobre o prato exato que você descreveu, o "Pasta & Vino" tem como especialidades:
+
+1. Tagliatelle com Ragu
+2. Ravioli de Ricota
+3. Tiramisu
+
+O tagliatelle é uma massa similar à que você descreveu, e é provável que eles possam preparar um prato semelhante ao da imagem, com um molho leve de azeite e ervas.
+
+Alternativamente, se você estiver em São Paulo, o "Bistrô Delícia" também é uma excelente opção para culinária italiana. Eles se especializam em pratos como:
+
+1. Pizza Margherita
+2. Lasanha Bolonhesa
+3. Tiramisu
+
+Embora suas especialidades listadas não incluam especificamente o prato que você descreveu, restaurantes italianos geralmente têm uma variedade de opções de massa e podem preparar pratos personalizados mediante solicitação.
+
+Lembre-se de que a disponibilidade exata dos pratos pode variar, então é sempre uma boa ideia verificar o menu atual através do aplicativo Sabor Express antes de fazer seu pedido.
+
+Quanto à imagem que você descreveu, ela mostra um prato branco contendo uma porção de massa longa (fettuccine ou tagliatelle), coberta com ervas frescas picadas e um molho leve, possivelmente à base de azeite. O prato é decorado com uma folha de manjericão fresco e está apresentado sobre uma superfície de textura rústica, com ingredientes como ervas frescas, pimentas vermelhas pequenas e massa crua espalhados ao redor, além de um garfo e um ralador de queijo visíveis, criando uma apresentação caseira e acolhedora.
+
+Posso ajudar com mais alguma informação sobre nossos restaurantes parceiros ou fazer uma recomendação mais específica baseada em sua localização atual?
     

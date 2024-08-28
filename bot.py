@@ -4,6 +4,7 @@ import os
 from helpers import *
 from identificar_persona import *
 from identificar_contexto import *
+from analisador_de_imagens import *
 
 dotenv.load_dotenv()
 cliente = anthropic.Anthropic(
@@ -12,7 +13,7 @@ cliente = anthropic.Anthropic(
 modelo = "claude-3-5-sonnet-20240620"
 # contexto = carrega('./dados/SaborExpress.txt')
 
-def bot(prompt,historico):
+def bot(prompt,historico,caminho_da_imagem):
     personalidade = personas[identificar_persona(prompt)]
     contexto = identificar_contexto(prompt)
     documento_contexto = selecionar_documento(contexto)
@@ -32,7 +33,13 @@ def bot(prompt,historico):
     # Histórico
     {historico}
     """
-    prompt_do_usuario = prompt
+    analise_da_imagem = ''
+    if caminho_da_imagem != None:
+        analise_da_imagem = analisar_imagem (caminho_da_imagem)
+        analise_da_imagem += '. Na resposta final, apresente os detalhes da descrição da imagem'
+        os.remove(caminho_da_imagem)
+        caminho_da_imagem = None
+    prompt_do_usuario = prompt + analise_da_imagem
 
     try:
         mensagem = cliente.messages.create(
@@ -53,7 +60,7 @@ def bot(prompt,historico):
             ]
         )
         resposta = mensagem.content[0].text
-        return resposta
+        return resposta, caminho_da_imagem
     except anthropic.APIConnectionError as e:
         print("O servidor não pode ser acessado! Erro:", e.__cause__)
     except anthropic.RateLimitError as e:

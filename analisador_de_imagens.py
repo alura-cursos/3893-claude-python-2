@@ -8,7 +8,7 @@ cliente = anthropic.Anthropic(
     api_key=os.environ.get("ANTHROPIC_API_KEY"),
 )
 modelo = "claude-3-5-sonnet-20240620"
-restaurantes = carrega('./dados/dados_SaborExpress.txt')
+# restaurantes = carrega('./dados/dados_SaborExpress.txt')
 
 def analisar_imagem(caminho_imagem):
     prompt_do_sistema = f"""
@@ -24,7 +24,6 @@ def analisar_imagem(caminho_imagem):
         
         # RESTAURANTES
         Restaurantes do Sabor Express
-        {restaurantes}
         
         ## Descreva a imagem
         coloque a descrição aqui
